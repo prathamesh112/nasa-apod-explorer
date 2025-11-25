@@ -1,0 +1,15 @@
+# Backend
+backend/explorer/.env
+backend/explorer/target/
+
+# Frontend
+frontend/apod-ui/node_modules/
+frontend/apod-ui/dist/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+.project
+.classpath
+.settings/
